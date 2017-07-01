@@ -1,0 +1,3 @@
+<h1><marquee style="top:10px;position=absolute"> Hacked By Sniperdz</marquee></h1>
+
+this code for inject HTML code..!
